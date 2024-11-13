@@ -1,7 +1,6 @@
 # About me
 
 
-**IGOTJAMES/IGOTJAMES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 *Igot, James Cedric, currently a 2nd yr CS Student in AMA Computer College Caloocan*
 
