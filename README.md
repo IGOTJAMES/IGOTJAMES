@@ -1,16 +1,14 @@
-## Hi there 👋
+# About me
 
-<!--
+
 **IGOTJAMES/IGOTJAMES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+*Igot, James Cedric, currently a 2nd yr CS Student in AMA Computer College Caloocan*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 Currently learning on how to use GitHub 
+- 👯 I’m looking to collaborate in the near future with my classmates
+- 📫 How to reach me: twlghtblck@gmail.com
+- 😄 Pronouns: he/him
+
+
